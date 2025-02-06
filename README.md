@@ -19,3 +19,8 @@ Anyone can download and run this application using **Docker**:
 ```sh
 docker pull rishikapyatla/receipt-processor:latest
 
+
+2️⃣ Run the Docker Container
+Run the application from Docker:
+docker run -p 8080:8080 rishikapyatla/receipt-processor:latest
+
