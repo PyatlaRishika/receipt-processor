@@ -15,12 +15,8 @@ This is a **Receipt Processing Web Service** built with **Java Spring Boot** and
 ## 🚀 Quick Start (Run Using Docker)
 
 ### **1️⃣ Pull the Image from Docker Hub**
-Anyone can download and run this application using **Docker**:
+Anyone can download and run this application using **Docker** and run the application from docker:
 ```sh
 docker pull rishikapyatla/receipt-processor:latest
-
-
-2️⃣ Run the Docker Container
-Run the application from Docker:
 docker run -p 8080:8080 rishikapyatla/receipt-processor:latest
 
